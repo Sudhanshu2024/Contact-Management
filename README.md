@@ -14,7 +14,7 @@ This is a contact management app built using ReactJS, TypeScript, TailwindCSS, R
 ![GITHUB BADGE](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Objective: Page Contacts  👥
+## Objective: Page Contacts  
 ### Features
 -➕ Add new contacts using the provided form.
 - 📋 Display a list of all added contacts.
